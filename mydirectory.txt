@@ -1,0 +1,11 @@
+C:.
+├───.idea
+│   ├───copyright
+│   ├───dictionaries
+│   └───libraries
+├───data
+├───lib
+├───out
+│   └───production
+│       └───Java Algorithms
+└───src
